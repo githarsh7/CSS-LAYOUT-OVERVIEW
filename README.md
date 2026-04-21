@@ -14,6 +14,6 @@ It helps in understanding how CSS classes are applied and how layout structure w
 - Beginner-friendly code  
 
 ## Connect With Me :
--- LinkedIn : [ HARSHAA SG ]
-www.linked.com/in/harshaasg
--- Gmail : harshaavardhan8@gmail.com
+- LinkedIn : [ HARSHAA SG ]
+(www.linked.com/in/harshaasg)
+- Gmail : harshaavardhan8@gmail.com
