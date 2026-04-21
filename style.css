@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 2000px;
+    width: 1000px;
+}
+.Container{
+    border: 2px solid saddlebrown;
+    width: 500px;
+    height: 500px;
+}
+.Box{
+    width: 100px;
+    height: 100px;
+    border: 3px solid burlywood;
+}
+.box1{
+    background-color: blueviolet;
+}
+.box2{
+    background-color: antiquewhite;
+}
+.box3{
+    background-color: brown;
+    position: fixed;
+}
+.box4{
+    background: linear-gradient(aqua,pink);
+    position: sticky ;
+    top: 150px;
+}
