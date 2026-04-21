@@ -13,7 +13,7 @@ It helps in understanding how CSS classes are applied and how layout structure w
 - Container-based layout design  
 - Beginner-friendly code  
 
-## Connect With Me :
+## Connect With Me 🤝 :
 - LinkedIn : [ HARSHAA SG ]
-(www.linked.com/in/harshaasg)
+(https://www.linked.com/in/harshaasg)
 - Gmail : harshaavardhan8@gmail.com
